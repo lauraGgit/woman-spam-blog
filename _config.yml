@@ -1,0 +1,11 @@
+# Site settings
+title: WomanSpamming >> Blog
+email: GSPPWomenSpamming@gmail.com
+description: The Blog of WomanSpamming.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.WomanSpamming.com" # the base hostname & protocol for your site
+twitter_username: womenSpamming
+github_username:  lauraGgit
+excerpt_separator: <!--more-->
+# Build settings
+markdown: kramdown
